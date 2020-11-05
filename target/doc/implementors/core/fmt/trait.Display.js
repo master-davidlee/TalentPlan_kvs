@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["ansi_term"] = [{"text":"impl Display for Prefix","synthetic":false,"types":[]},{"text":"impl Display for Infix","synthetic":false,"types":[]},{"text":"impl Display for Suffix","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Display for ANSIString&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Display for ANSIStrings&lt;'a&gt;","synthetic":false,"types":[]}];
+implementors["clap"] = [{"text":"impl&lt;'n, 'e&gt; Display for App&lt;'n, 'e&gt;","synthetic":false,"types":[]},{"text":"impl Display for Shell","synthetic":false,"types":[]},{"text":"impl Display for Error","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
