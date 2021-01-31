@@ -1,0 +1,16 @@
+/home/ipfs/RustLearning/TalentPlan_kvs/kvs/target/debug/deps/escargot-a48ab1515ed98d3f.rmeta: /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/lib.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/cargo.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/build.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/run.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/test.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/msg.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/error.rs /home/ipfs/RustLearning/TalentPlan_kvs/kvs/target/debug/build/escargot-bc2be6146fe68f22/out/current_target.txt
+
+/home/ipfs/RustLearning/TalentPlan_kvs/kvs/target/debug/deps/libescargot-a48ab1515ed98d3f.rlib: /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/lib.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/cargo.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/build.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/run.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/test.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/msg.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/error.rs /home/ipfs/RustLearning/TalentPlan_kvs/kvs/target/debug/build/escargot-bc2be6146fe68f22/out/current_target.txt
+
+/home/ipfs/RustLearning/TalentPlan_kvs/kvs/target/debug/deps/escargot-a48ab1515ed98d3f.d: /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/lib.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/cargo.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/build.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/run.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/test.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/msg.rs /home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/error.rs /home/ipfs/RustLearning/TalentPlan_kvs/kvs/target/debug/build/escargot-bc2be6146fe68f22/out/current_target.txt
+
+/home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/lib.rs:
+/home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/cargo.rs:
+/home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/build.rs:
+/home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/run.rs:
+/home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/test.rs:
+/home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/msg.rs:
+/home/ipfs/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.3.1/src/error.rs:
+/home/ipfs/RustLearning/TalentPlan_kvs/kvs/target/debug/build/escargot-bc2be6146fe68f22/out/current_target.txt:
+
+# env-dep:OUT_DIR=/home/ipfs/RustLearning/TalentPlan_kvs/kvs/target/debug/build/escargot-bc2be6146fe68f22/out
